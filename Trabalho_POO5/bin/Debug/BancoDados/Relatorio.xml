@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRelatorio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Relatorio>
+    <Evento>Paciente Editado(a)</Evento>
+    <Informações>Dados editados do código PC0040:  campo Numero de 1 para 465,</Informações>
+    <Data>2018-06-11T16:48:58</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Marcada</Evento>
+    <Informações>Consulta de código CT0026 marcada para o paciente Bernardo no dia 12/6/2018 às 11:00</Informações>
+    <Data>2018-06-11T16:48:37</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Paciente Cadastrado</Evento>
+    <Informações>Paciente de código PC0042 e nome Bernardo cadastrado</Informações>
+    <Data>2018-06-11T16:48:14</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Marcada</Evento>
+    <Informações>Consulta de código CT0025 marcada para o paciente Garibalda no dia 4/9/2018 às 13:00</Informações>
+    <Data>2018-06-10T00:39:16</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Paciente Editado(a)</Evento>
+    <Informações>Dados editados do código PC0040:  campo Numero de 0 para 1,</Informações>
+    <Data>2018-06-06T20:44:48</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Paciente Deletado</Evento>
+    <Informações>Paciente de código PC0041 e nome Jeremias Deletado</Informações>
+    <Data>2018-06-06T20:26:07</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Desmarcada</Evento>
+    <Informações>Consulta de código CT0015 e paciente Maria, desmarcada.</Informações>
+    <Data>2018-06-06T19:58:23</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Editado(a)</Evento>
+    <Informações>Dados editados:  campo Horario de 17:00 para 16:00,</Informações>
+    <Data>2018-06-06T19:57:34</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Editado(a)</Evento>
+    <Informações>Dados editados:  campo Horario de 09:00 para 15:00,</Informações>
+    <Data>2018-06-06T19:57:28</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Editado(a)</Evento>
+    <Informações>Dados editados:  campo Horario de 14:00 para 09:00,</Informações>
+    <Data>2018-06-06T19:57:19</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Editado(a)</Evento>
+    <Informações>Dados editados:  campo Horario de 13:00 para 14:00,</Informações>
+    <Data>2018-06-06T19:57:13</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Editado(a)</Evento>
+    <Informações>Dados editados:  campo Horario de 08:00 para 09:00,</Informações>
+    <Data>2018-06-06T19:57:05</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Desmarcada</Evento>
+    <Informações>Consulta de código CT0022 e paciente Jeremias, desmarcada.</Informações>
+    <Data>2018-06-04T22:10:49</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Marcada</Evento>
+    <Informações>Consulta de código CT0022 marcada para o paciente Jeremias no dia 16/7/2018 às 09:00</Informações>
+    <Data>2018-06-04T22:10:43</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Paciente Cadastrado</Evento>
+    <Informações>Paciente de código PC0041 e nome Jeremias cadastrado</Informações>
+    <Data>2018-06-04T20:14:11</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Marcada</Evento>
+    <Informações>Consulta de código CT0021 marcada para o paciente Alison no dia 16/7/2018 às 09:00</Informações>
+    <Data>2018-06-04T20:08:29</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Marcada</Evento>
+    <Informações>Consulta de código CT0020 marcada para o paciente Nathan no dia 15/6/2018 às 13:00</Informações>
+    <Data>2018-06-04T20:07:05</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Paciente Deletado</Evento>
+    <Informações>Paciente de código PC0033 e nome Afonso Deletado</Informações>
+    <Data>2018-06-04T09:45:46</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Desmarcada</Evento>
+    <Informações>Consulta de código CT0014 e paciente Alison, desmarcada.</Informações>
+    <Data>2018-06-04T09:44:46</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Editado(a)</Evento>
+    <Informações>Dados editados:  campo Horario de 13:00 para 08:00,</Informações>
+    <Data>2018-06-04T09:44:33</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Marcada</Evento>
+    <Informações>Consulta de código CT0019 marcada para o paciente Chris no dia 26/10/2018 às 13:00</Informações>
+    <Data>2018-06-04T09:44:22</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Paciente Cadastrado</Evento>
+    <Informações>Paciente de código PC0040 e nome Chris cadastrado</Informações>
+    <Data>2018-06-04T09:43:54</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Paciente Editado(a)</Evento>
+    <Informações>Dados editados:  campo Nascimento de 30/10/1946 para 30/10/1950,</Informações>
+    <Data>2018-06-04T09:39:26</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Marcada</Evento>
+    <Informações>Consulta de código CT0018 marcada para o paciente Iamara no dia 22/8/2018 às 08:00</Informações>
+    <Data>2018-06-04T09:29:34</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Marcada</Evento>
+    <Informações>Consulta de código CT0017 marcada para o paciente Alison no dia 20/6/2018 às 13:00</Informações>
+    <Data>2018-06-04T09:29:17</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Marcada</Evento>
+    <Informações>Consulta de código CT0016 marcada para o paciente Maria no dia 16/12/2018 as 14:00</Informações>
+    <Data>2018-06-04T09:15:22</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Desmarcada</Evento>
+    <Informações>Consulta de código CT0011 e paciente Nathan, desmarcada.</Informações>
+    <Data>2018-06-04T08:54:21</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Desmarcada</Evento>
+    <Informações>Consulta de código CT0009 e paciente Nathan, desmarcada.</Informações>
+    <Data>2018-06-04T08:54:17</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Desmarcada</Evento>
+    <Informações>Consulta de código CT0012 e paciente Afonso, desmarcada.</Informações>
+    <Data>2018-06-04T08:54:14</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Marcada</Evento>
+    <Informações>Consulta de código CT0015 marcada para o paciente Maria no dia 15/3/2019 as 09:00</Informações>
+    <Data>2018-06-04T08:54:01</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Paciente Deletado</Evento>
+    <Informações>Paciente de código PC0039 e nome aa Deletado</Informações>
+    <Data>2018-06-04T08:53:00</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Paciente Cadastrado</Evento>
+    <Informações>Paciente de código PC0039 e nome aa cadastrado</Informações>
+    <Data>2018-06-04T08:52:27</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Paciente Cadastrado</Evento>
+    <Informações>Paciente de código PC0038 e nome Garibalda cadastrado</Informações>
+    <Data>2018-06-04T08:50:50</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Paciente Cadastrado</Evento>
+    <Informações>Paciente de código PC0037 e nome Maria cadastrado</Informações>
+    <Data>2018-06-04T08:48:43</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Paciente Cadastrado</Evento>
+    <Informações>Paciente de código PC0036 e nome Josué cadastrado</Informações>
+    <Data>2018-06-04T08:47:21</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Marcada</Evento>
+    <Informações>Consulta de código CT0014 marcada para o paciente Alison no dia 21/11/2018 as 10:00</Informações>
+    <Data>2018-06-04T08:45:08</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Marcada</Evento>
+    <Informações>Consulta de código CT0013 marcada para o paciente Iamara no dia 30/12/2018 as 17:00</Informações>
+    <Data>2018-06-04T08:44:47</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Paciente Editado(a)</Evento>
+    <Informações>Dados editados:  campo Logradouro de aaa para rua joão XVII, campo Cidade de aaa para Contagem, campo Bairro de aaa para Medeira, campo Estado de Maranhão	 para Minas Gerais, campo Email de aaa para nathan@mail.com,</Informações>
+    <Data>2018-06-04T08:43:04</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Paciente Cadastrado</Evento>
+    <Informações>Paciente de código PC0035 e nome Iamara cadastrado</Informações>
+    <Data>2018-06-04T08:42:06</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Paciente Cadastrado</Evento>
+    <Informações>Paciente de código PC0034 e nome Alison cadastrado</Informações>
+    <Data>2018-06-04T08:40:54</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Editado(a)</Evento>
+    <Informações>Dados editados:  campo Horario de 14:00 para 17:00,</Informações>
+    <Data>2018-06-04T00:57:36</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Marcada</Evento>
+    <Informações>Consulta de código CT0012 marcada para o paciente Afonso no dia 15/10/2018 as 14:00</Informações>
+    <Data>2018-06-04T00:57:28</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Paciente Cadastrado</Evento>
+    <Informações>Paciente de código PC0033 e nome Afonso cadastrado</Informações>
+    <Data>2018-06-04T00:52:47</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Editado(a)</Evento>
+    <Informações>Dados editados:  campo Nome de Irineu para Nathan, campo Horario de 14:00 para 10:00,</Informações>
+    <Data>2018-06-03T19:37:56</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Editado(a)</Evento>
+    <Informações>Dados editados:  campo Horario de 16:00 para 09:00,</Informações>
+    <Data>2018-06-03T19:37:07</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Marcada</Evento>
+    <Informações>Consulta de código CT0011 marcada para o paciente Nathan no dia 15/9/2018 as 16:00</Informações>
+    <Data>2018-06-03T17:17:30</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Desmarcada</Evento>
+    <Informações>Consulta de código CT0010 e paciente Nathan, desmarcada.</Informações>
+    <Data>2018-06-03T17:15:31</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Marcada</Evento>
+    <Informações>Consulta de código CT0010 marcada para o paciente Nathan no dia 10/10/2018 as 08:00</Informações>
+    <Data>2018-06-03T17:15:26</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Paciente Deletado</Evento>
+    <Informações>Paciente de código PC0032 e nome aa Deletado</Informações>
+    <Data>2018-06-03T17:11:37</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Paciente Cadastrado</Evento>
+    <Informações>Paciente de código PC0032 e nome aa cadastrado</Informações>
+    <Data>2018-06-03T17:11:32</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Paciente Deletado</Evento>
+    <Informações>Paciente de código PC0029 e nome Nathan Deletado</Informações>
+    <Data>2018-06-03T17:10:32</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Paciente Cadastrado</Evento>
+    <Informações>Paciente de código PC0031 e nome aa cadastrado</Informações>
+    <Data>2018-06-03T17:10:25</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Marcada</Evento>
+    <Informações>Consulta de código CT0009 marcada para o paciente Irineu no dia 12/8/2018 as 14:00</Informações>
+    <Data>2018-06-03T16:50:07</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Paciente Cadastrado</Evento>
+    <Informações>Paciente de código PC0030 e nome Irineu cadastrado</Informações>
+    <Data>2018-06-03T16:40:42</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Paciente Cadastrado</Evento>
+    <Informações>Paciente de código PC0029 e nome Nathan cadastrado</Informações>
+    <Data>2018-06-03T16:39:10</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Marcada</Evento>
+    <Informações>Consulta de código CT0008 marcada para o paciente 1 no dia 15/7/2018 as 16:00</Informações>
+    <Data>2018-06-03T16:21:51</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Paciente Editado(a)</Evento>
+    <Informações>Dados editados:  campo Estado de Amapá para Distrito Federal,</Informações>
+    <Data>2018-06-03T16:06:07</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Paciente Cadastrado</Evento>
+    <Informações>Paciente de código PC0028 e nome nathan cadastrado</Informações>
+    <Data>2018-06-03T15:37:15</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Consulta Marcada</Evento>
+    <Informações>Consulta de código CT0007 marcada para o paciente 1 no dia 11/6/2018 as 08:00</Informações>
+    <Data>2018-06-03T13:34:35</Data>
+  </Relatorio>
+  <Relatorio>
+    <Evento>Paciente Cadastrado</Evento>
+    <Informações>Paciente de código PC0027 e nome 1 cadastrado</Informações>
+    <Data>2018-06-03T13:33:59</Data>
+  </Relatorio>
+</ArrayOfRelatorio>

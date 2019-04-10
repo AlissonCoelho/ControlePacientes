@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPaciente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Paciente>
+    <Codigo>PC0023</Codigo>
+    <Nome>ss</Nome>
+    <Logradouro>ss</Logradouro>
+    <Numero>2</Numero>
+    <Cidade>sss</Cidade>
+    <Bairro>sss</Bairro>
+    <Estado>Goiás</Estado>
+    <Telefone>(23) 45678-9009</Telefone>
+    <Email>hjkhgf@sdty</Email>
+    <Nascimento>2009-12-12T00:00:00</Nascimento>
+  </Paciente>
+  <Paciente>
+    <Codigo>PC0018</Codigo>
+    <Nome>natam</Nome>
+    <Logradouro>Rua Natan</Logradouro>
+    <Numero>99</Numero>
+    <Cidade>n</Cidade>
+    <Bairro>nn</Bairro>
+    <Estado>Espírito Santo</Estado>
+    <Telefone>(44) 44444-4444</Telefone>
+    <Email>wwwww</Email>
+    <Nascimento>2012-12-12T00:00:00</Nascimento>
+  </Paciente>
+  <Paciente>
+    <Codigo>PC0022</Codigo>
+    <Nome>Add</Nome>
+    <Logradouro>Rua t</Logradouro>
+    <Numero>124</Numero>
+    <Cidade>cdois</Cidade>
+    <Bairro>adsflk</Bairro>
+    <Estado>Distrito Federal</Estado>
+    <Telefone>(12) 34567-8900</Telefone>
+    <Email>sdfghjklç@tyuio</Email>
+    <Nascimento>1998-05-03T00:00:00</Nascimento>
+  </Paciente>
+  <Paciente>
+    <Codigo>PC0016</Codigo>
+    <Nome>3</Nome>
+    <Logradouro>3</Logradouro>
+    <Numero>3</Numero>
+    <Cidade>3</Cidade>
+    <Bairro>3</Bairro>
+    <Estado>Alagoas</Estado>
+    <Telefone>(33) 33333-2222</Telefone>
+    <Email>3</Email>
+    <Nascimento>2222-12-23T00:00:00</Nascimento>
+  </Paciente>
+  <Paciente>
+    <Codigo>PC0017</Codigo>
+    <Nome>Alisson</Nome>
+    <Logradouro>Rua Rio Tiete</Logradouro>
+    <Numero>292</Numero>
+    <Cidade>Contagem</Cidade>
+    <Bairro>Riacho</Bairro>
+    <Estado>Minas Gerais</Estado>
+    <Telefone>(31) 97127-0466</Telefone>
+    <Email>alisso@gmail.com</Email>
+    <Nascimento>1993-05-07T00:00:00</Nascimento>
+  </Paciente>
+  <Paciente>
+    <Codigo>PC0019</Codigo>
+    <Nome>a</Nome>
+    <Logradouro>a</Logradouro>
+    <Numero>2</Numero>
+    <Cidade>a</Cidade>
+    <Bairro>a</Bairro>
+    <Estado>Santa Catarina</Estado>
+    <Telefone>(22) 22222-2222</Telefone>
+    <Email>sa</Email>
+    <Nascimento>2000-12-12T00:00:00</Nascimento>
+  </Paciente>
+  <Paciente>
+    <Codigo>PC0020</Codigo>
+    <Nome>paciente</Nome>
+    <Logradouro>rua rua</Logradouro>
+    <Numero>123</Numero>
+    <Cidade>Cidade city</Cidade>
+    <Bairro>Bairro</Bairro>
+    <Estado>Acre</Estado>
+    <Telefone>(99) 99999-9999</Telefone>
+    <Email>aaa@ghags.com</Email>
+    <Nascimento>1990-12-22T00:00:00</Nascimento>
+  </Paciente>
+  <Paciente>
+    <Codigo>PC0021</Codigo>
+    <Nome>Paciente Doente</Nome>
+    <Logradouro>Rua doas Dores</Logradouro>
+    <Numero>345</Numero>
+    <Cidade>Dores do Idaia</Cidade>
+    <Bairro>Dasdores</Bairro>
+    <Estado>Minas Gerais</Estado>
+    <Telefone>(31) 99999-9999</Telefone>
+    <Email>dores@gmail.com</Email>
+    <Nascimento>1970-10-20T00:00:00</Nascimento>
+  </Paciente>
+  <Paciente>
+    <Codigo>PC0015</Codigo>
+    <Nome>Nome Teste</Nome>
+    <Logradouro>Rua Teste</Logradouro>
+    <Numero>2</Numero>
+    <Cidade>Ciade</Cidade>
+    <Bairro>2</Bairro>
+    <Estado>Alagoas</Estado>
+    <Telefone>(22) 22222-2222</Telefone>
+    <Email>2</Email>
+    <Nascimento>2222-12-22T00:00:00</Nascimento>
+  </Paciente>
+</ArrayOfPaciente>

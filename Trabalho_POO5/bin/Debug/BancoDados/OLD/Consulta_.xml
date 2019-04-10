@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfConsulta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Consulta>
+    <Codigo>CT0006</Codigo>
+    <Nome>Add</Nome>
+    <Data>2018-08-09T09:00:00</Data>
+    <Horario>09:00</Horario>
+  </Consulta>
+  <Consulta>
+    <Codigo>CT0003</Codigo>
+    <Nome>1</Nome>
+    <Data>2018-06-07T08:00:00</Data>
+    <Horario>08:00</Horario>
+  </Consulta>
+  <Consulta>
+    <Codigo>CT0004</Codigo>
+    <Nome>1</Nome>
+    <Data>2018-06-20T10:00:00</Data>
+    <Horario>10:00</Horario>
+  </Consulta>
+  <Consulta>
+    <Codigo>CT0005</Codigo>
+    <Nome>Paciente Doente</Nome>
+    <Data>2018-06-12T09:00:00</Data>
+    <Horario>09:00</Horario>
+  </Consulta>
+</ArrayOfConsulta>

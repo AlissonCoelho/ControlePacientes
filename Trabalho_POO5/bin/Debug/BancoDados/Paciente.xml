@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPaciente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Paciente>
+    <Codigo>PC0040</Codigo>
+    <Nome>Chris</Nome>
+    <Logradouro>rua dos bobos</Logradouro>
+    <Numero>465</Numero>
+    <Cidade>Brooklin</Cidade>
+    <Bairro>bed stay</Bairro>
+    <Estado>São Paulo</Estado>
+    <Telefone>(11) 03266-6587</Telefone>
+    <Email>todomundoodeiaeu@mail.com</Email>
+    <Nascimento>1969-06-16T00:00:00</Nascimento>
+  </Paciente>
+  <Paciente>
+    <Codigo>PC0042</Codigo>
+    <Nome>Bernardo</Nome>
+    <Logradouro>rua João Kleber</Logradouro>
+    <Numero>698</Numero>
+    <Cidade>Betim</Cidade>
+    <Bairro>Jardim Central</Bairro>
+    <Estado>Minas Gerais</Estado>
+    <Telefone>(31) 99887-7665</Telefone>
+    <Email>Bernardo@mail.com</Email>
+    <Nascimento>1980-08-16T00:00:00</Nascimento>
+  </Paciente>
+  <Paciente>
+    <Codigo>PC0038</Codigo>
+    <Nome>Garibalda</Nome>
+    <Logradouro>rua setenta</Logradouro>
+    <Numero>70</Numero>
+    <Cidade>Acapulco</Cidade>
+    <Bairro>Vila do sesamo</Bairro>
+    <Estado>Piauí</Estado>
+    <Telefone>(43) 07536-9841</Telefone>
+    <Email>Garibhot@mail.com</Email>
+    <Nascimento>1950-10-30T00:00:00</Nascimento>
+  </Paciente>
+  <Paciente>
+    <Codigo>PC0037</Codigo>
+    <Nome>Maria</Nome>
+    <Logradouro>rua da maria</Logradouro>
+    <Numero>24</Numero>
+    <Cidade>Anápolis</Cidade>
+    <Bairro>centro</Bairro>
+    <Estado>Goiás</Estado>
+    <Telefone>(62) 94002-8922</Telefone>
+    <Email>maria1@mail.com</Email>
+    <Nascimento>1968-03-02T00:00:00</Nascimento>
+  </Paciente>
+  <Paciente>
+    <Codigo>PC0036</Codigo>
+    <Nome>Josué</Nome>
+    <Logradouro>rua vinte e dois</Logradouro>
+    <Numero>22</Numero>
+    <Cidade>Betim</Cidade>
+    <Bairro>Flor rosa</Bairro>
+    <Estado>Minas Gerais</Estado>
+    <Telefone>(31) 99996-7074</Telefone>
+    <Email>josue51@mail.com</Email>
+    <Nascimento>1989-01-16T00:00:00</Nascimento>
+  </Paciente>
+  <Paciente>
+    <Codigo>PC0029</Codigo>
+    <Nome>Nathan</Nome>
+    <Logradouro>rua joão XVII</Logradouro>
+    <Numero>166</Numero>
+    <Cidade>Contagem</Cidade>
+    <Bairro>Medeira</Bairro>
+    <Estado>Minas Gerais</Estado>
+    <Telefone>(02) 02020-2020</Telefone>
+    <Email>nathan@mail.com</Email>
+    <Nascimento>1970-06-15T00:00:00</Nascimento>
+  </Paciente>
+  <Paciente>
+    <Codigo>PC0035</Codigo>
+    <Nome>Iamara</Nome>
+    <Logradouro>rua das caixas</Logradouro>
+    <Numero>622</Numero>
+    <Cidade>Belo Horizonte</Cidade>
+    <Bairro>Horto</Bairro>
+    <Estado>Minas Gerais</Estado>
+    <Telefone>(31) 98866-5544</Telefone>
+    <Email>iamara@mail.com</Email>
+    <Nascimento>2000-07-30T00:00:00</Nascimento>
+  </Paciente>
+  <Paciente>
+    <Codigo>PC0034</Codigo>
+    <Nome>Alison</Nome>
+    <Logradouro>rua manga</Logradouro>
+    <Numero>16</Numero>
+    <Cidade>Contagem</Cidade>
+    <Bairro>Castelo</Bairro>
+    <Estado>Minas Gerais</Estado>
+    <Telefone>(31) 21225-4578</Telefone>
+    <Email>alison@mail.com</Email>
+    <Nascimento>1999-09-16T00:00:00</Nascimento>
+  </Paciente>
+</ArrayOfPaciente>
